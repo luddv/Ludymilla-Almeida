@@ -29,4 +29,4 @@ Sou desenvolvedora em formação, focada em Python e desenvolvimento back-end. G
 
 - [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
 - [GitHub](https://github.com/luddv)  
-- 📧 almeidaludymilla6@gmail.com
+- [E-mail](almeidaludymilla6@gmail.com)
